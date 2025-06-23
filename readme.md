@@ -17,10 +17,10 @@ DECHEMA has bundled various aspects of the energy transition with regard to wate
 
 
 
-# Membrane Distillation
+# Direct Contact Membrane Distillation (DCMD)
 Membrane distillation (MD) is a separation process that employs a semi-permeable membrane to facilitate the vapor-phase transport of volatile components from a liquid feed solution to a separate vapor phase. This separation occurs due to differences in vapor pressure between the heated liquid feed and the cooler vapor side.
 
-To simulate a 1D steady state membrane distillation, a mathematical model is typically employed [4]. This model takes into account factors like the temperature gradient across the membrane, the membrane's permeability, the flow rates of the feed and vapor streams, and the properties of the components being separated (Fig. 1). The simulation aims to predict the performance of the MD system, including factors such as flux (rate of vapor transport), selectivity (ability to separate specific components), and energy consumption.
+To simulate a 1D steady state membrane distillation, a mathematical model is typically employed [4]. This model takes into account factors like the temperature gradient across the membrane, the membrane's permeability, the flow rates of the feed and vapor streams, and the properties of the components being separated (Fig. 1). The simulation aims to predict the performance of the DCMD system, including factors such as flux (rate of vapor transport), selectivity (ability to separate specific components), and energy consumption.
 
 Simulating membrane distillation is crucial for optimizing system design and operating conditions, ensuring efficient separation, and minimizing energy consumption. It helps engineers and researchers understand how changes in parameters will impact the separation process and allows for the development of cost-effective and environmentally friendly separation systems.
 
